@@ -19,11 +19,6 @@
     "resumedownload":"resume.pdf",
     "social":[
       {
-        "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-facebook"
-      },
-      {
         "name":"twitter",
         "url":"http://twitter.com/pchennam1998",
         "className":"fa fa-twitter"
