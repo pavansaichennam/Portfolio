@@ -265,6 +265,9 @@
 .fa-download:before {
   content: "\f019";
 }
+.fa-search:before {
+  content: "\f06e";
+}
 .fa-arrow-circle-o-down:before {
   content: "\f01a";
 }

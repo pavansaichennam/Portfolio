@@ -1,7 +1,17 @@
 import React, { Component } from "react";
 import Fade from "react-reveal";
+//import ResumePreviewModal from "./ResumePreviewModal";
 
 class About extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      isModalOpen: false,
+    };
+  }
+  openModal = () => {
+    window.open(this.props.data.resumedownload, "_blank");
+  };
   render() {
     if (!this.props.data) return null;
 
@@ -24,7 +34,7 @@ class About extends Component {
               <img
                 className="profile-pic"
                 src={profilepic}
-                alt="Nordic Giant Profile Pic"
+                alt="Pavan Sai Profile Pic"
               />
             </div>
             <div className="nine columns main-col">
@@ -50,9 +60,9 @@ class About extends Component {
                 </div>
                 <div className="columns download">
                   <p>
-                    <a href={resumeDownload} className="button">
-                      <i className="fa fa-download"></i>Download Resume
-                    </a>
+                    <button onClick={this.openModal} className="button">
+                        <i className="fa fa-search"></i> Preview Resume
+                    </button>
                   </p>
                 </div>
               </div>

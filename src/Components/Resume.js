@@ -23,6 +23,9 @@ class Resume extends Component {
             {education.degree} <span>&bull;</span>
             <em className="date">{education.graduated}</em>
           </p>
+          <p>
+            <b>{education.cgpa}</b>
+          </p>
           <p>{education.description}</p>
         </div>
       );
@@ -94,7 +97,6 @@ class Resume extends Component {
 
             <div className="nine columns main-col">
               <p>{skillmessage}</p>
-
               <div className="bars">
                 <ul className="skills">{skills}</ul>
               </div>
