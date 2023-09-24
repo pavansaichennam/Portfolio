@@ -1,0 +1,158 @@
+{
+  "main": {
+    "name":"Pavan Sai Chennam",
+    "bio":"I am a highly motivated Master's in Computer Software Engineering student at San Jose State University with a strong foundation in software development and a passion for problem-solving. With a background in both application development and ERP solutions, I am eager to contribute my skills and expertise to a dynamic team. Currently actively seeking a Co-Op/full-time job opportunity in the field of Computer Science. I thrive in fast-paced, collaborative environments and look forward to leveraging my technical skills to make a meaningful impact in my next role",
+    "image":"profilepic.jpg",
+    "description":"Aspiring Software Engineer pursuing a Master's degree in Computer Software Engineering, driven by a desire to join a forward-thinking company. Eager to leverage technical and soft skills in a collaborative environment to tackle real-world challenges, foster personal growth, and contribute to a supportive community",
+    "contactmessage":"Please do send a mail using below form",
+    "email": "pavansaichennam@gmail.com",
+    "phone": "408-690-9230",
+    "github":"https://github.com/pchennam1998",
+    "project":"https://github.com/pchennam1998?tab=repositories",
+    "address":{
+      "street":"808 West San Carlos",
+      "city":"San Jose",
+      "state":"California",
+      "zip": "95126"
+    },
+    "website": "m",
+    "resumedownload":"resume.pdf",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/pchennam1998",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/pavan-sai-c-223b15148/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/chennampavansai",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/pchennam1998",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"San Jose State University",
+        "degree":"Masters in Software Engineering",
+        "graduated":"Currently pursuing",
+        "cgpa":"CGPA: 3.78/4.00",
+        "description":"Communication · Debugging · Documentation · Google Cloud Platform (GCP) · Python (Programming Language) · Full-Stack Development · Quality Assurance · Programming Languages · Presentations · Computer Engineering · Java · Teamwork · Server Side · Web Development · Front-End Development · Databases · Client Side · Software Documentation · Bootstrap · Back-End Web Development · MongoDB · Software Testing · Programming · Software Programming · Software Development · Computer Science · Application Development · Database Management System (DBMS) · Object-Oriented Programming (OOP) · Algorithms · Amazon S3 · Amazon EC2 · Data Structures"
+      },
+      {
+        "school":"VNR Vignana Jyothi Institute of Engineering and Technology",
+        "degree":"Bachelors of Technology in Information Technology",
+        "graduated":"Jul 2015 to Apr 2019",
+        "cgpa": "CGPA: 3.63/4.00",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"Applaud Solutions India Private Limited",
+        "title":"Software Engineer",
+        "years":"June 2019 - July 2022",
+        "description":"• Gathered client requirements, implemented Scrum-based patches, and delivered MD120 documentation for Experian. \n • Resolved production issues and provided technical support for WVU, conducting root cause analysis. \n • Engaged with the Core Technical team for demos, issue resolution, and adherence to Agile practices Experian. \n • Configured HR Portal including Pay slip, P60 and P11D with custom templates using the Applaud Cloud Experian. \n • Built configuration patches and delivered the MD120 document. Created Functional and Technical BR.030 \n documentation for West Virginia University and KNPC. \n • Gathered client requirements and met the Sprint deadline developing the HR portal for the client Two Sigma. \n • Showcased features for early feedback and provided Sprint-configured patches. \n • Offered technical support, debugging critical issues, and collaborating for swift customer fixes for all clients."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2017 - February 2018",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"70%"
+      },
+      {
+        "name":"NodeJs",
+        "level":"70%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML",
+        "level":"80%"
+      },
+      {
+        "name":"C/C++",
+        "level":"80%"
+      },
+      {
+        "name":"JAVA",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"01.jpg",
+        "url":""
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.jpg",
+        "url":""
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":""
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":""
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":""
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":""
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"01.jpg",
+        "url":""
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"02.jpg",
+        "url":""
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/pavansaichennam/static/css/main.31d6cfe0.css",
+    "main.js": "/pavansaichennam/static/js/main.eabcacf2.js",
+    "static/js/787.9333ff32.chunk.js": "/pavansaichennam/static/js/787.9333ff32.chunk.js",
+    "index.html": "/pavansaichennam/index.html",
+    "main.eabcacf2.js.map": "/pavansaichennam/static/js/main.eabcacf2.js.map",
+    "787.9333ff32.chunk.js.map": "/pavansaichennam/static/js/787.9333ff32.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.eabcacf2.js"
+  ]
+}
