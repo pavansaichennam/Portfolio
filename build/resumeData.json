@@ -1,0 +1,130 @@
+{
+  "main": {
+    "name":"Pavan Sai Chennam",
+    "bio":"I am a highly motivated Master's in Computer Software Engineering student at San Jose State University with a strong foundation in software development and a passion for problem-solving. With a background in both application development and ERP solutions, I am eager to contribute my skills and expertise to a dynamic team. Currently actively seeking a Co-Op/full-time job opportunity in the field of Computer Science. I thrive in fast-paced, collaborative environments and look forward to leveraging my technical skills to make a meaningful impact in my next role",
+    "image":"profilepic.jpg",
+    "description":"Aspiring Software Engineer pursuing a Master's degree in Computer Software Engineering, driven by a desire to join a forward-thinking company. Eager to leverage technical and soft skills in a collaborative environment to tackle real-world challenges, foster personal growth, and contribute to a supportive community",
+    "contactmessage":"Please do send a mail using below form",
+    "email": "pavansaichennam@gmail.com",
+    "phone": "+1 (408) 690-9230",
+    "github":"https://github.com/pchennam1998",
+    "project":"https://github.com/pchennam1998?tab=repositories",
+    "address":{
+      "street":"808 West San Carlos",
+      "city":"San Jose",
+      "state":"California",
+      "zip": "95126"
+    },
+    "website": "m",
+    "resumedownload":"resume.pdf",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/pchennam1998",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/pavan-sai-c-223b15148/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/chennampavansai",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/pchennam1998",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{"education":[
+      {
+        "school":"San Jose State University",
+        "degree":"Masters in Software Engineering",
+        "graduated":"Currently pursuing",
+        "cgpa":"CGPA: 3.78/4.00",
+        "description":"I bring a diverse skill set to the table, with strengths in communication, debugging, and documentation. Proficient in languages like Python and Java, I excel in both front-end and back-end development. My expertise spans computer science fundamentals, including object-oriented programming and algorithms, making me well-suited for complex application development challenges. My projects range from overseeing Agile development using the MERN stack to creating innovative Flask-ReactJS applications and implementing deep learning models. I'm also experienced in cloud technologies like Amazon S3 and EC2. Ready to contribute to cutting-edge software and computer engineering projects."
+      },
+      {
+        "school":"VNR Vignana Jyothi Institute of Engineering and Technology",
+        "degree":"Bachelors of Technology in Information Technology",
+        "graduated":"Jul 2015 to Apr 2019",
+        "cgpa": "CGPA: 3.63/4.00",
+        "description":"I possess a versatile skill set, encompassing technical proficiencies and effective soft skills. My expertise includes debugging, documentation, quality assurance, and proficiency in multiple programming languages. With a foundation in computer engineering and a focus on Java and server-side web development, I excel in crafting user-friendly interfaces with Bootstrap on the front-end and implementing innovative solutions for software testing and development on the back-end. My deep understanding of computer science principles, including database management systems and object-oriented programming, drives my problem-solving abilities. Notable projects include developing an Android app for exam hall ticket management and a web application that comprehensively tracks performance in academics, extracurricular, and co-curricular activities. This diverse skill set and project experience make me a dynamic professional well-suited for software development and computer engineering roles."
+      }
+    ],
+    "work":[
+      {
+        "company":"Applaud Solutions India Private Limited",
+        "title":"Software Engineer",
+        "years":"March 2021 - July 2022",
+        "description":"During my tenure at Applaud Solutions India Private Limited, I played a crucial role in enhancing product functionalities by incorporating and implementing essential functionalities and configuration patches. I was responsible for delivering comprehensive documentation and designing Functional and Technical BR.030 documentation to assist clients in understanding and utilizing our solutions effectively. My work extended beyond individual contributions, as I actively engaged in cross-functional collaboration with engineering and customer success teams. This collaborative approach allowed us to address customer fixes swiftly, resulting in a remarkable 50% reduction in average resolution time and a significant improvement in customer retention by 15%. I also took a proactive stance in issue resolution, providing technical support and conducting thorough root cause analyses, which ultimately contributed to a 15% increase in revenue."
+      },
+      {
+        "company":"Applaud Solutions India Private Limited",
+        "title":"Applications Consultant",
+        "years":"June 2019 - February 2021",
+        "description":"During my tenure, I collaborated on various aspects of Core HR, Employee and Manager Self-Service, SSHR, Absence, and Oracle Time & Labor (OTL). I actively gathered client functional requirements and executed Scrum-based patches, meticulously documenting the process using MD120 documentation. My role also involved close engagement with the Core Technical team for demos, efficient issue resolution, and a steadfast commitment to Agile practices. Additionally, I configured the HR Portal, implementing custom templates through the Applaud Cloud, covering essential features like Pay slip, P60, and P11D."
+      },
+      {
+        "company":"Applaud Solutions India Private Limited",
+        "title":"Intern",
+        "years":"January 2019 - April 2019",
+        "description":"I spearheaded the exploration of Applaud HR features, harnessing REST APIs, fast formulas, triggers, packages, XML, and database objects to elevate product functionality and streamline data management. My efforts significantly enhanced system performance, achieving an impressive 20% boost in efficiency."
+      }
+    ],
+    "skills":[
+      {
+        "title": "Languages & Web Technologies: ",
+        "name": "Python, ReactJS, Node.js, C, C++, SQL, PLSQL, JavaScript, CSS, HTML, Java"
+      },
+      {
+        "title": "Databases/Cloud: ",
+        "name":"MongoDB, Oracle, MySQL, Amazon (EC2, S3), Google Cloud Engine"
+      },
+      {
+        "title": "Libraries/Frameworks: ",
+        "name":"NumPy, Pandas, Matplotlib, GitHub Framework"
+      },
+      {
+        "title": "Design principles & SDLC: ",
+        "name":"ER Diagram, Scrum, UML diagram, Agile"
+      },
+      {
+        "title": "ERP Solutions: ",
+        "name":"Oracle HRMS 11i/R12 - Core HR, SSHR, OTL, Fast Formulae"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Gym Management System",
+        "category":"My Travel Blog for my post-university travels",
+        "images":"https://www.serpentcs.in/web/image/4566",
+        "url":"https://github.com/pchennam1998/Gym-Management-System"
+      },
+      {
+        "title":"Market Place",
+        "category":"A React based resume website template",
+        "images":"https://t4.ftcdn.net/jpg/02/22/90/43/360_F_222904305_qz1ObDb3t9unTZ9HHglqxnYoQYIvJZqz.jpg",
+        "url":"https://github.com/pchennam1998/marketPlace-cmpe272-final"
+      },
+      {
+        "title":"Stock Market",
+        "category":"(offline now) A fighting gear company I started",
+        "images":"https://media.istockphoto.com/id/1215509486/vector/up-and-down-arrows-stock-exchange-concept-show-about-profit-and-loss-trading-of-trader.jpg?s=612x612&w=0&k=20&c=JmIPUaipZrikBhWFj3e6NDIxJlsXYYdtXa6nw-9Mcvk=",
+        "url":"https://github.com/pchennam1998/StockMarket"
+      },
+      {
+        "title":"Fruits and Vegetable Classification",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "images":"https://www.researchgate.net/publication/357703098/figure/fig2/AS:1110676995092481@1641817439723/Sample-Input-Images-of-fruits-360-dataset.ppm",
+        "url":"https://github.com/pchennam1998/Fruits-and-Vegetable-Classification"
+      }
+    ]
+  }
+}
